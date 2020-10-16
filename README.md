@@ -28,9 +28,9 @@
 - Boards, (snow/wake/long/kite/"any word here")board
 - Boards again
 
-### What I do
+### Work
 
-I'm developer and devops. I wrote programs for food (professionally) on almost every known ancient programming language, I wrote programs for computers, phones, chips, engines, gpu cards.
+I'm (+-lead) developer and devops. I wrote programs for food (professionally) on almost every known ancient programming language, I wrote programs for computers, phones, chips, engines, gpu cards etc. Have master of math degree but not sure I remember anything. 
 
-Now I write on javascript (prefer flowtype), and have +- good skill with gcloud as devops.
+Now I mostly write on javascript (prefer flowtype/react/relay/graphql), and have +- good skill with gcloud as devops.
 
