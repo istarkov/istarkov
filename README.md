@@ -1,4 +1,4 @@
-### Hi there 👋 my name is Ivan and unfortunately or fortunately I am a developer.
+### Hi there 👋 my name is Ivan and unfortunately or fortunately I am an ancient software engineer.
 
 ### Projects I created / cocreated / maintained and they can be found online
 
