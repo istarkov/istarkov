@@ -22,7 +22,7 @@
 
 **Don't remember what**
 
-- examples, articles etc https://github.com/istarkov?after=Y3Vyc29yOnYyOpK5MjAxNy0wOS0yMlQwMzowNzowNiswMzowMM4GOSjH&tab=repositories
+- examples, articles etc https://github.com/istarkov?tab=repositories
 
 ### What I like
 
