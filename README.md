@@ -1,16 +1,36 @@
-### Hi there 👋
+### Hi there 👋 my name is Ivan and unfortunately or fortunately I am a developer.
 
-<!--
-**istarkov/istarkov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Projects I created / cocreated and they can be found online
 
-Here are some ideas to get you started:
+**Still alive**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- My first React library - google maps for react https://github.com/google-map-react/google-map-react 4.7k+ 🌟 162k/week downloads
+- Input format and masks lib https://github.com/realadvisor/rifm 1.1k🌟 449k/week downloads (just because very popular material-ui datepicker depends on it ;-))
+- Another one google maps https://github.com/realadvisor/rgm
+
+**Dead/outdated**
+
+- live wallpapers for android (design and programming) https://www.youtube.com/watch?v=hOXNxRm8dxo (I was smart that days)
+- code presentation tool https://github.com/istarkov/revue
+- react markdown https://github.com/istarkov/react-components-markdown
+- plugin to use webpack loaders in Babel https://github.com/istarkov/babel-plugin-webpack-loaders
+
+**Fun**
+
+- Fish on react native https://github.com/istarkov/react-native-fish
+
+**Don't remember what**
+
+- examples, articles etc https://github.com/istarkov?after=Y3Vyc29yOnYyOpK5MjAxNy0wOS0yMlQwMzowNzowNiswMzowMM4GOSjH&tab=repositories
+
+### What I like
+
+- Boards, (snow/wake/long/kite/"any word here")board
+- Boards again
+
+### What I do
+
+I'm developer and devops. I wrote programs for food (professionally) on almost every known ancient programming language, I wrote programs for computers, phones, chips, engines, gpu cards.
+
+Now I write on javascript (prefer flowtype), and have +- good skill with gcloud as devops.
+
