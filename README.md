@@ -1,6 +1,6 @@
 ### Hi there 👋 my name is Ivan and unfortunately or fortunately I am a developer.
 
-### Projects I created / cocreated and they can be found online
+### Projects I created / cocreated / maintained and they can be found online
 
 **Still alive**
 
@@ -14,6 +14,7 @@
 - code presentation tool https://github.com/istarkov/revue
 - react markdown https://github.com/istarkov/react-components-markdown
 - plugin to use webpack loaders in Babel https://github.com/istarkov/babel-plugin-webpack-loaders
+- few years was [recompose](https://github.com/acdlite/recompose) 14.6k🌟 maintainer
 
 **Fun**
 
