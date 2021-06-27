@@ -4,8 +4,8 @@
 
 **Still alive**
 
-- My first React library - google maps for react https://github.com/google-map-react/google-map-react 4.7k+ 🌟 162k/week downloads
-- Input format and masks lib https://github.com/realadvisor/rifm 1.1k🌟 449k/week downloads (just because very popular material-ui datepicker depends on it ;-))
+- My first React library - google maps for react https://github.com/google-map-react/google-map-react 5k+ 🌟 162k/week downloads
+- Input format and masks lib https://github.com/realadvisor/rifm 1k+🌟 449k/week downloads (just because very popular material-ui datepicker depends on it ;-))
 - Another one google maps https://github.com/realadvisor/rgm
 
 **Dead/outdated**
@@ -33,5 +33,5 @@
 
 I'm (+-lead) developer and devops. I wrote programs for food (professionally) on almost every known ancient programming language, I wrote programs for computers, phones, chips, engines, gpu cards etc. Have master of math degree but not sure I remember anything. 
 
-Now I mostly write on javascript (prefer flowtype/typescript/react/svelte/relay/graphql/hasura), and have +- good skill with gcloud as devops.
+Now I mostly write on javascript (prefer flowtype/typescript/react/svelte/relay/graphql/hasura), and have +- good skill with gcloud/(hashicorp tech) as devops.
 
