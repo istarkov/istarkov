@@ -5,7 +5,7 @@
 **Still alive**
 
 - My first React library - google maps for react https://github.com/google-map-react/google-map-react 5k+ 🌟 162k/week downloads
-- Input format and masks lib https://github.com/realadvisor/rifm 1k+🌟 449k/week downloads (just because very popular material-ui datepicker depends on it ;-))
+- Input format and masks lib https://github.com/realadvisor/rifm 1k+🌟 700k/week downloads (just because very popular material-ui datepicker depends on it ;-))
 - Another one google maps https://github.com/realadvisor/rgm
 
 **Dead/outdated**
