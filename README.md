@@ -1,5 +1,3 @@
-### Ivan Starkov
-
 #### Active Projects:
 - **Google Maps for React:** [google-map-react](https://github.com/google-map-react/google-map-react) - 6k+ 🌟, 250k/week downloads
 - **Input Format & Masks Library:** [rifm](https://github.com/realadvisor/rifm) - 1.3k+ 🌟, 1.3m/week downloads
