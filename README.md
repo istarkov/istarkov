@@ -1,37 +1,31 @@
-### Hi there 👋 my name is Ivan and unfortunately or fortunately I am an ancient software engineer.
+### Ivan Starkov
 
-### Projects I created / cocreated / maintained and they can be found online
+#### Active Projects:
+- **Google Maps for React:** [google-map-react](https://github.com/google-map-react/google-map-react) - 6k+ 🌟, 250k/week downloads
+- **Input Format & Masks Library:** [rifm](https://github.com/realadvisor/rifm) - 1.3k+ 🌟, 1.3m/week downloads
+- **Google Maps Library:** [rgm](https://github.com/realadvisor/rgm)
 
-**Still alive**
+#### Archived Projects:
+- **Recompose:** Former maintainer of [recompose](https://github.com/acdlite/recompose) with 14.6k 🌟
+- **Live Wallpapers for Android:** [YouTube Link](https://www.youtube.com/watch?v=hOXNxRm8dxo)
+- **Code Presentation Tool:** [revue](https://github.com/istarkov/revue)
+- **React Markdown:** [react-components-markdown](https://github.com/istarkov/react-components-markdown)
+- **Webpack Loaders in Babel:** [babel-plugin-webpack-loaders](https://github.com/istarkov/babel-plugin-webpack-loaders)
 
-- My first React library - google maps for react https://github.com/google-map-react/google-map-react 5k+ 🌟 162k/week downloads
-- Input format and masks lib https://github.com/realadvisor/rifm 1k+🌟 700k/week downloads (just because very popular material-ui datepicker depends on it ;-))
-- Another one google maps https://github.com/realadvisor/rgm
+#### Miscellaneous:
+- **React Native Fish Animation:** [react-native-fish](https://github.com/istarkov/react-native-fish)
+- **Additional Contributions:** [Repositories](https://github.com/istarkov?tab=repositories)
 
-**Dead/outdated**
+#### Interests:
+- Enthusiast of various types of (snow|kite|wake|etc) boards.
+- Deep interest in Artificial Intelligence and its applications.
 
-- live wallpapers for android (design and programming) https://www.youtube.com/watch?v=hOXNxRm8dxo (I was smart that days)
-- code presentation tool https://github.com/istarkov/revue
-- react markdown https://github.com/istarkov/react-components-markdown
-- plugin to use webpack loaders in Babel https://github.com/istarkov/babel-plugin-webpack-loaders
-- few years was [recompose](https://github.com/acdlite/recompose) 14.6k🌟 maintainer
+#### Professional Background:
+- Senior Fullstack Developer with expertise in DevOps. 
+- Experienced in a wide range of programming languages. 
+- Proficient in JavaScript frameworks and tools such as TypeScript, React, Svelte, Relay, GraphQL, SQL and Hasura. 
+- Skilled in Google Cloud, Cloudflare and HashiCorp technologies. 
+- Holds a Master's degree in Mathematics.
 
-**Fun**
-
-- Fish on react native https://github.com/istarkov/react-native-fish
-
-**Don't remember what**
-
-- examples, articles etc https://github.com/istarkov?tab=repositories
-
-### What I like
-
-- Boards, (snow|wake|key|long|kite|any_word_here)board
-- Boards again
-
-### Work
-
-I'm (+-lead) developer and devops. I wrote programs for food (professionally) on almost every known ancient programming language, I wrote programs for computers, phones, chips, engines, gpu cards etc. Have master of math degree but not sure I remember anything. 
-
-Now I mostly write on javascript (prefer flowtype/typescript/react/svelte/relay/graphql/hasura), and have +- good skill with gcloud/(hashicorp tech) as devops.
-
+#### Contacts:
+- **Email:** istarkov@gmail.com
