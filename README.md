@@ -25,6 +25,3 @@
 - Proficient in JavaScript frameworks and tools such as TypeScript, React, Svelte, Relay, GraphQL, SQL and Hasura. 
 - Skilled in Google Cloud, Cloudflare and HashiCorp technologies. 
 - Holds a Master's degree in Mathematics.
-
-#### Contacts:
-- **Email:** istarkov@gmail.com
