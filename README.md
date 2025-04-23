@@ -1,8 +1,8 @@
 #### Active Projects:
+- **Webstudio** [Webstudio](https://github.com/webstudio-is/webstudio) - 6.6k+ 🌟
 - **Google Maps for React:** [google-map-react](https://github.com/google-map-react/google-map-react) - 6k+ 🌟, 250k/week downloads
 - **Input Format & Masks Library:** [rifm](https://github.com/realadvisor/rifm) - 1.3k+ 🌟, 1.3m/week downloads
 - **Google Maps Library:** [rgm](https://github.com/realadvisor/rgm) - 200+ 🌟
-- **Webstudio** [Webstudio](https://github.com/webstudio-is/webstudio) - 2k+ 🌟
 
 #### Archived Projects:
 - **Recompose:** Former maintainer of [recompose](https://github.com/acdlite/recompose) with 14.6k 🌟
